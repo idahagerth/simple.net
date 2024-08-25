@@ -1,0 +1,14 @@
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.AssemblyInfoInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.AssemblyInfo.cs
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.csproj.CoreCompileInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/bin/Debug/net8.0/moment2.2
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/bin/Debug/net8.0/moment2.2.deps.json
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/bin/Debug/net8.0/moment2.2.runtimeconfig.json
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/bin/Debug/net8.0/moment2.2.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/bin/Debug/net8.0/moment2.2.pdb
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/refint/moment2.2.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.pdb
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/moment2.2.genruntimeconfig.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/moment2.2/obj/Debug/net8.0/ref/moment2.2.dll
